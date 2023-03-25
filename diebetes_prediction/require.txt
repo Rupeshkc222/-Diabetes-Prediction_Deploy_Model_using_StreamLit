@@ -1,0 +1,9 @@
+-> create new environment
+
+#pip install streamlit
+#pip install scikit-learn
+#pip install pickle-mixin
+
+
+-> To run the program open the anoconda terminal then run 
+        --example   (streamlit run c:\users\pc\onedrive\desktop\diebetes\diabetes_web_app.py)
